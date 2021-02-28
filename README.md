@@ -1,5 +1,5 @@
 # Wcat
-wCat is a partial synchronous clone of cat command available in bash but not in windows cmd.
+Wcat is a partial synchronous clone of cat command available in bash but not in windows cmd.
 
 It has 2 main features:
     1- To display a text file. (single or multiple files)
