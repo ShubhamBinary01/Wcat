@@ -6,7 +6,7 @@ It has 2 main features:
     2- To combine copies of text file. (extension of 1)
 
 General Syntax:
-cat [options] [files]
+Wcat [options] [files]
 
 
 
